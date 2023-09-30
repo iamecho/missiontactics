@@ -2,26 +2,43 @@
 
 # MISSION COMMAND
 
-## Features
+Mission Command is a stategy board game. It is played by two players on a 10x8 board, each controlling 24 pieces. Each piece has a military rank that is hidden from the opponent. One of the pieces is the Flag. The objective of the game is to eliminate or capture the Flag of the opponent, or to maneuver one's Flag to the far edge of the board of the opponent. Just like in chess, a piece can challenge another piece and the lower ranked piece is killed. The project aims to be played both on mobile and browser.
+
+## Content
+
+- [Objectives and victory conditions](#Objectives-and-victory-conditions)
+- [Pieces](#Pieces)
+- [Board layout](#Board-layout)
+- [Gameplay](#Gameplay)- 
+- [Features](#Features)
+- [Scope](#Scope)
+
+#### Objectives and victory conditions
+- The game's objective is to eliminate or capture the opponent's Flag
+- Or to maneuver one's Flag to the far edge of the board 
+- The Flag, if challenged, is eliminated by any opposing piece, including the opposing and challenging Flag. If a player's Flag is eliminated by a challenge, that player loses the game. The Flag that challenges the opponent's Flag wins the challenge and thus wins the game.
+- At the end of a match and a victor is determined, all surviving pieces in the board are revealed.
+
+#### Board Layout
+- The game's objective is to eliminate or capture the opponent's Flag
+
+#### Gameplay
+- The game's objective is to eliminate or capture the opponent's Flag
+
+#### Pieces
+- The game's objective is to eliminate or capture the opponent's Flag
+
+
+#### Features
 
 - [Light/dark mode toggle](#lightdark-mode-toggle)
-- Live previews
-- Fullscreen mode
+- Home
+- Play
+- Rules
+- Rankings
+- Spectate
+- Settings
 - Cross platform
 
-
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur
-
-
-
-
-
-
-
-#### Light/dark mode toggle
-sdasdsdasdsadsdasd
+#### Scope
+- The game's objective is to eliminate or capture the opponent's Flag
