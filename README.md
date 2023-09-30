@@ -4,7 +4,7 @@
 
 ## Features
 
-- [Light/dark mode toggle](https://github.com/iamecho/missioncommand/blob/main/README.md#lightdark-mode-toggle)
+- [Light/dark mode toggle](#lightdark-mode-toggle)
 - Live previews
 - Fullscreen mode
 - Cross platform
