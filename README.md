@@ -25,7 +25,7 @@ The game is played on a board with 80 squares arranged in 10 squares columns and
 To start the game, each player can position its 24 pieces in any of the nearest 3 rows (30 squares) to the player's side, leaving 6 squares open. Allowing players to position their pieces in the allowed squares is part of the strategy.
 
 #### Gameplay
-Each player is randomly assigned light or dark pieces. The players in light pieces goes first. Players take their turns alternately. 
+Players are randomly assigned to either light or dark pieces. The player in light pieces goes first. Players take their turns alternately. 
 
 Each player can move only one piece per turn. All pieces can only move one square with the the direction either going forward, backward, or sideways inside the board. A piece can't move towards the square of another friendly piece. Diagonal moves are not allowed.
 
