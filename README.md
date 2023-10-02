@@ -55,7 +55,7 @@ The special exceptions are:
 
 #### Features
 - Home - screen that has a play button (to play with other players or AI if there are no players) or to play with friends (create/join a game); links to other main screens: rules, rankings, settings, spectate, and profile. 
-- Play - board game screen; shows players with each assigned light or dark pieces, pieces in board (player view only shows own pieces rank to self), captured pieces (player view shows opponent captured pieces rank to self), and expressions (user has list of expressions with sound to use in-game, ex. "Well, played", "Hurry up").
+- Play - board game screen; shows players with each assigned light or dark pieces, pieces in board (player view only shows own pieces rank to self), captured pieces (player view shows opponent captured pieces rank to self), and expressions (user has list of expressions with sound to use in-game, ex. "Well, played", "Hurry up"). If player doesn't make a move after 3mins a popup will inform the user to make a move in 2mins or the player will lose by default.
 - Rules - explain board, piece ranks and abilities, piece movements, and game objectives 
 - Rankings - list of all-time player rankings, players are given points every game see Ranking Points for details. There is also Seasonal (by quarter) and Continental Rankings. Rank list show player name, flag (based on location) and points.
 - Spectate - list of matches are available for public viewing, max displayed games in list is 20, randomly chosen. Games played with friends has option to be private with the game creator has the option to disable public viewing.
