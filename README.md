@@ -12,6 +12,7 @@ Mission Tactics is a stategy board game. It is played by two players on a 10x8 b
 - [Gameplay](#Gameplay) 
 - [Features](#Features)
 - [Scope](#Scope)
+- [Roadmap](#Roadmap)
 
 #### Objectives and victory conditions
 1. Eliminate the opponent's Flag
