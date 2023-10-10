@@ -75,6 +75,7 @@ Other game details that are within the scope of the project:
 #### Roadmap
 - Scheduled tournaments - users can join an official tournament and win game coins
 - Versions - users can play on different board and pieces of the game ex. feudal Japan-themed board with pieces like ninja, samurai, etc.
-- Coins - user can use to buy in shop, users who login everyday gets coins
+- Coins - user can use to buy in shop
 - Shop - user can buy avatar, board designs, ad-free subscription
 - Paid subscription - no ads, and other perks
+- Gamify - user can get daily rewards, milestones that earn coins
