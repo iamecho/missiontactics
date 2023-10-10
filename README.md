@@ -63,12 +63,13 @@ The special exceptions are:
 - Settings - adjust background music, game music, view controls, and language.
 - Player Profile - player name, ranking and points, win-lose tally, location, username, profile avatar. Ability to edit profile location and avatar (choose for list).
 - Cross-platform - game is playable both in desktop browser and mobile. Cross-platfrom playing is allowed. Mobile browser players are directed to mobile game (directed to install, if game is not yet installed).
+- Game Modes - Player vs player (PVP): assigned to fight other player, Player vs AI (PVC): assigned to fight AI, Player vs Friend (PVF): join a friend through a room code.
 
 #### Scope 
 Other game details that are within the scope of the project:
 - Ads -  every game ends, an ad is displayed.
 - Player matching - Player to player (PVP) matching is prioritized. Players are not matched by rankings. If there is no available player, player is assigned to AI.
-- AI Game - players who play AIs are randomly assigned an AI level - beginner, intermediate, master. 
+- AI Game - players who play AIs (PVC) are randomly assigned an AI level - beginner, intermediate, master. 
 - Ranking points -  every player win whether its a fellow player or AI gets 3 points. Loser gets 1 point. AI don't get points. Players that are disconnected or who exit the game don't get points.
 
 #### Roadmap
